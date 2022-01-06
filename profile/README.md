@@ -4,7 +4,7 @@
 </p>
 <h1 align="center" style="margin-top: 0px;">Minkan</h1>
 
-<p align="center">A end-to-end encrypted zero-trust capable messaging platform</p>
+<p align="center">An end-to-end encrypted zero-trust capable messaging platform</p>
 
 ## Architecture
 
